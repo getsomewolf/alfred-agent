@@ -1,0 +1,14 @@
+streamlit==1.32.0
+langchain==0.1.12
+langchain-core==0.1.32
+langchain-groq==0.1.5
+langchain-community==0.0.29
+python-dotenv==1.0.1
+faiss-cpu==1.7.4
+farm-haystack==1.23.0
+haystack-ai==2.0.0b5
+pypdf==4.0.2
+sentence-transformers==2.5.1
+torch==2.2.1
+transformers==4.38.2
+pydantic==2.6.3 
